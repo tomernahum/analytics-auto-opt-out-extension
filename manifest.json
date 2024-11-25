@@ -23,8 +23,6 @@
     ],
 
     "permissions": [
-        "cookies",
-        "activeTab",
         "<all_urls>"
     ],
 

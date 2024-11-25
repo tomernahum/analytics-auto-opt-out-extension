@@ -1,5 +1,7 @@
 //@ts-check
 
+// This runs multiple times at different points of the webpage loading cycle to maximize success
+
 
 function optOutsLocalStorage() {
     window.localStorage.setItem('umami.disabled', "1");
